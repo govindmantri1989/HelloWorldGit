@@ -22,7 +22,7 @@ public class Onetoonewithfk {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws Exception {
-
+        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh");
      Configuration c=new Configuration();
         c.configure();
         SessionFactory sf = c.buildSessionFactory();
